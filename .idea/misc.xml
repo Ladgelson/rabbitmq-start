@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/estoquepreco/estoquepreco/pom.xml" />
         <option value="$PROJECT_DIR$/springconsumer/springconsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/librabbitmq/pom.xml" />
       </list>
     </option>
   </component>

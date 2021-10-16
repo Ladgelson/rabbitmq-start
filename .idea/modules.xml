@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/estoquepreco/estoquepreco/estoquepreco.iml" filepath="$PROJECT_DIR$/estoquepreco/estoquepreco/estoquepreco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librabbitmq/librabbitmq.iml" filepath="$PROJECT_DIR$/librabbitmq/librabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/rabbitmq-start.iml" filepath="$PROJECT_DIR$/.idea/rabbitmq-start.iml" />
       <module fileurl="file://$PROJECT_DIR$/springconsumer/springconsumer/springconsumer.iml" filepath="$PROJECT_DIR$/springconsumer/springconsumer/springconsumer.iml" />
     </modules>

@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springconsumer" />
+        <module name="librabbitmq" />
         <module name="estoquepreco" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="estoquepreco" target="11" />
+      <module name="librabbitmq" target="11" />
       <module name="springconsumer" target="11" />
     </bytecodeTargetLevel>
   </component>
